@@ -11,7 +11,7 @@
 [package_version_badge]: https://img.shields.io/npm/v/@prettier/html-event-attributes.svg?style=flat-square
 [package_link]: https://www.npmjs.com/package/@prettier/html-event-attributes
 
-> List of HTML tags.
+> List of HTML event handler attributes.
 
 ## Install
 

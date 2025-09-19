@@ -22,7 +22,7 @@ yarn add @prettier/html-event-attributes
 ## Usage
 
 ```js
-import htmlEventAttributes from '@prettier/html-event-attributes';
+import htmlEventAttributes from "@prettier/html-event-attributes";
 
 console.log(htmlEventAttributes);
 //=> ['onabort', 'onafterprint', 'onauxclick', …]

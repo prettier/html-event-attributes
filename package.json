@@ -1,6 +1,6 @@
 {
   "name": "@prettier/html-event-attributes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "List of HTML event handler attributes.",
   "license": "MIT",
   "repository": "prettier/html-event-attributes",

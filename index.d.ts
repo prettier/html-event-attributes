@@ -98,7 +98,7 @@ List of HTML event handler attributes.
 import htmlEventAttributes from "@prettier/html-event-attributes";
 
 console.log(htmlEventAttributes);
-//=> ['onafterprint', 'onauxclick', 'onbeforeinput', …]
+//=> ['onabort', 'onafterprint', 'onauxclick', …]
 ```
 */
 declare const htmlEventAttributes: readonly HtmlEventAttributes[];

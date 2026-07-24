@@ -44,8 +44,8 @@
     "c8": "11.0.0",
     "cheerio": "1.2.0",
     "outdent": "0.8.0",
-    "prettier": "3.8.3",
-    "release-it": "20.2.0"
+    "prettier": "3.9.6",
+    "release-it": "20.2.1"
   },
   "publishConfig": {
     "access": "public",
